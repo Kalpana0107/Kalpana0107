@@ -20,9 +20,9 @@
 
 <h3>Passionate about building really world apps</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Kalpana3007&color=blueviolet&style=flat"/>
-<img src="https://img.shields.io/github/followers/Kalpana3007?style=flat&color=blue&logo=github"/>
-<img src="https://img.shields.io/github/stars/Kalpana3007?style=flat&color=yellow&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Kalpana0107&color=blueviolet&style=flat"/>
+<img src="https://img.shields.io/github/followers/Kalpana0107?style=flat&color=blue&logo=github"/>
+<img src="https://img.shields.io/github/stars/Kalpana0107?style=flat&color=yellow&logo=github"/>
 
 <br/><br/>
 
@@ -48,21 +48,21 @@
 ## 🔥 My Streak
 <div align="center">
 
-![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana3007&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana0107&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🎯 My Stats
 <div align="center">
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana0107)
 
 </div>
 
 ## 📊 Top Languages
 <div align="center">
 
-![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana0107&layout=compact&theme=tokyonight)
 
 </div>
 ---
@@ -72,7 +72,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kalpana-naikodi-590b42380?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana3007)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana0107)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikodikalpana07@gmail.com)
 
 </div>
