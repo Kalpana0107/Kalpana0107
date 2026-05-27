@@ -38,7 +38,13 @@
 </td>
 <td valign="top" width="40%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdkNHpvNGJmbHVybjhsMDkxbGlxMHBhcnE2OWN5eXZwNDlzYWc1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%"/>
+
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/🎓%20VESIT%20Mumbai-BTech%20AI%20%26%20Data%20Science-A855F7?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/👩‍💻%20Student-Batch%202025--2029-blue?style=for-the-badge"/>
+</div>
 
 </td>
 </tr>
