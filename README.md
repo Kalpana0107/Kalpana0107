@@ -31,7 +31,7 @@
 -👯 Looking to collaborate on <b>Web Dev Projects</b><br/>
 -💬 Ask me about <b>HTML, Java </b><br/>
 -🏆 Built **Crisis** — AI emergency response system at **Hack2Skill Hackathon**
-- 🔗 Crisis Link <a href= https://github.com/Kalpana0107/Crisis > <h4>Crisis</h4> </a>
+- 🔗 Crisis Link ![Crisis]("https://github.com/Kalpana0107/Crisis" )
 
 
 
@@ -66,12 +66,7 @@
 
 </div>
 
-## 📊 Top Languages
-<div align="center">
 
-![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana0107&layout=compact&theme=tokyonight)
-
-</div>
 ---
 
 ## 🌐 Connect with Me
@@ -88,7 +83,7 @@
 
 <div>
 
-⭐ <i>If you like my profile, consider giving a star to my repos!</i> ⭐
+⭐ <i> Thankyou !</i> ⭐
 
 </div>
 
