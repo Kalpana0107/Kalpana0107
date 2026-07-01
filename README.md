@@ -28,8 +28,8 @@
 
 -🔭 I'm currently learning <b>Web Development </b><br/>
 -🌱 I'm currently working on <b>Java DSA & AI Projects </b><br/>
--👯 Looking to collaborate on <b>Web Dev Projects</b><br/>
--💬 Ask me about <b>HTML, Java </b><br/>
+-👯 Looking to collaborate on <b>Web Dev Projects and Open source contribution s</b><br/>
+-💬 Ask me about <b>HTML, Java ,python</b><br/>
 
 
 
