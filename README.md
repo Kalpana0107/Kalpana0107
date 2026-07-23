@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=✨+Kalpana+Naikodi+✨;🎓+BTech+in+AI+and+Data+Science;🏫VESIT+Mumbai;)](https://git.io/typing-svg)
 
 </div>
-<h1> 🌈Hi, I am Kalpana Naikodi</h1>
+<h1> Hi, I am Kalpana Naikodi</h1>
 
 
 ---
