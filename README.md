@@ -57,25 +57,10 @@
 
 </div>
 
-## 🎯 My Stats
-<div align="center">
-
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana0107)
-
-</div>
-
-
----
-## My Projects
-
-- 🏆 Built **Arogya_Bot** — A public health awareness and wellness assistant designed for rural and semi-urban India
-- 🔗 Arogya_Bot Link ![Arogya_Bot]("(https://arogya-bot-sooty.vercel.app/)" )
-
--🏆 Built **Crisis** — AI emergency response system at **Hack2Skill Hackathon**
-- 🔗 Crisis Link ![Crisis]("https://github.com/Kalpana0107/Crisis" )
 
 
 
+--
 
 ## 🌐 Connect with Me
 
