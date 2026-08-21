@@ -19,7 +19,6 @@
 <td valign="top" width="60%">
 
 
-
 <img src="https://komarev.com/ghpvc/?username=Kalpana0107&color=blueviolet&style=flat"/>
 <img src="https://img.shields.io/github/followers/Kalpana0107?style=flat&color=blue&logo=github"/>
 <img src="https://img.shields.io/github/stars/Kalpana0107?style=flat&color=yellow&logo=github"/>
